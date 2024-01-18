@@ -1,4 +1,4 @@
-**Employee Management System**
+# **Employee Management System**
 
 The Employee Management System is a relational database project designed to efficiently manage and analyze employee-related data within an organization. The system includes a database named "employee_management_system" with a table named "employees" containing essential information about employees, such as their names, job titles, departments, salaries, managers, and join dates.
 
